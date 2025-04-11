@@ -42,6 +42,7 @@ los mismos y la cantidad de cada uno de ellos.
 
 Razona donde ubicas estas funciones y de qué tipo pueden ser.'''
 #ESTO ES UN CAMBIO PARA LA PRACTICA 
+#ESTE COMENTARIO HA SIDO HECHO POR AARON
 from abc import ABC, abstractmethod
 
 class Notificacion(ABC) : 
